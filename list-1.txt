@@ -4,15 +4,16 @@
 sudo apt update
 sudo apt install \
 git \
+unrar \
+tree \
+cifs-utils \
+htop \
 ssh \
 nmap \
 zenmap \
 whois \
 host \
 curl \
-htop \
-unrar \
-tree \
-cifs-utils \
 ophcrack \
+chntpw \
 apg \
